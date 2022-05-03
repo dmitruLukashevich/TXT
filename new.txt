@@ -1,0 +1,6 @@
+        1.first name : Dmitru
+        2.second name : Valer'evich
+        3.last name" : Lukashevich"
+        4.age : 31
+        5.pets : 0
+        6.salary : 1001$
