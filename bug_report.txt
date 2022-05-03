@@ -1,1 +1,23 @@
-
+date/time         : 2009-10-12, 15:03:24, 250ms
+computer name     : MIHAIL
+user name         : Администратор <admin>
+registered owner  : robo / Construction Department #299
+operating system  : Windows 2003 Service Pack 2 build 3790
+system language   : Russian
+system up time    : 1 day 15 hours
+program up time   : 15 minutes 26 seconds
+processor         : Intel(R) Pentium(R) 4 CPU 1.80GHz
+physical memory   : 167/511 MB (free/total)
+free disk space   : (C:) 51,11 GB
+display mode      : 1024x768, 32 bit
+process id        : $1d0
+allocated memory  : 13,12 MB
+executable        : HandyCache.exe
+exec. date/time   : 2009-07-22 11:00
+version           : 1.0.0.193
+compiled with     : Delphi 2007
+madExcept version : 3.0d
+callstack crc     : $9ee1985a, $e4082f5d, $56d37d93
+exception number  : 1
+exception class   : EFCreateError
+exception message : Cannot create file "C:\Documents and Settings\Администратор\Рабочий стол\HandyCacheRC3[1].1.0.0.193\stat.txt". 
