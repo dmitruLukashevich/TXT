@@ -1,0 +1,7 @@
+        1.hard : SQL
+        2.hard : Javascript
+        3.hard : Jmetr
+        4.hard : Postman
+        5.soft : Analical skills
+        6.soft : passion
+        7.soft : team work

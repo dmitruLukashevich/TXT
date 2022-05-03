@@ -1,0 +1,6 @@
+        1.favorite film : Interstellar
+        2.favorite series : House MD
+        3.favorite food : Pizza
+        4.favorite season : summer
+        5.country to vizit : "USA
+
